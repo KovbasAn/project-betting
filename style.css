@@ -1,0 +1,9 @@
+th, td {
+  width: 300px;
+  height: 100px;
+  border: 2px solid gray;
+  text-align: center;
+}
+.empty {
+  border: none;
+}
